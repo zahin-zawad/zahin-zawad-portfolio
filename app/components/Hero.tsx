@@ -43,7 +43,7 @@ export default function Hero() {
             pages. I love exploring new ideas and making them happen in real
             life.
             <br />
-            Let's build something great together!
+            Let&apos;s build something great together!
           </p>
 
           <a
