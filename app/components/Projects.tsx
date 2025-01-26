@@ -31,7 +31,7 @@ const projectData = [
     description:
       "Modern Animated Restaurant Website using ReactJS + Tailwind + Framer-Motion",
     technologies: [
-      "Next.js",
+      "Vite",
       "React",
       "TypeScript",
       "Tailwind CSS",
